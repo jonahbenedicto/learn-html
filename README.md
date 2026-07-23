@@ -11,3 +11,4 @@ Contents:
     - [1.2 HTML Headings](./1-html-document/1.2-html-headings)
     - [1.3 HTML Paragraphs](./1-html-document/1.3-html-paragraphs)
     - [1.4 HTML Links](./1-html-document/1.4-html-links)
+    - [1.5 HTML Images](./1-html-document/1.5-html-images)
