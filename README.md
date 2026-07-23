@@ -7,6 +7,5 @@ Resources:
 
 Contents: 
 - [1 HTML Documents](./1-html-document)
-    - [1.1 Doctype Declaration](./1.1-doctype-declaration)
-    - [1.2 HTML Headings](./1.2-html-headings)
-    
+    - [1.1 Doctype Declaration](./1-html-document/1.1-doctype-declaration)
+    - [1.2 HTML Headings](./1-html-document/1.2-html-headings)
