@@ -13,3 +13,4 @@ Contents:
 - [5 Links](./5-links)
 - [6 Images](./6-images)
 - [7 Line Break](./7-line-break)
+- [8 Horizontal Rules](./8-horizontal-rules)
