@@ -1,8 +1,8 @@
-# HTML Images
+# Images
 
 `<img>`
 
-[Example](./html-images.html)
+[Example](./images.html)
 ```html
 <!DOCTYPE html>
 <html>

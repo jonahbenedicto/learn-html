@@ -1,8 +1,8 @@
-# HTML Links
+# Links
 
 `<a>`
 
-[Example](./html-links.html)
+[Example](./links.html)
 
 ```html
 <!DOCTYPE html>

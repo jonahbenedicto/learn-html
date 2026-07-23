@@ -1,6 +1,6 @@
-# HTML Document
+# Document
 
-[Example](./html-document.html)
+[Example](./document.html)
 ```html
 <!DOCTYPE html>
 <html>

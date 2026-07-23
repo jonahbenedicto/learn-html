@@ -1,8 +1,8 @@
-# HTML Paragraphs
+# Paragraphs
 
 `<p>`
 
-[Example](./html-paragraphs.html)
+[Example](./paragraphs.html)
 ```html
 <!DOCTYPE html>
 <html>

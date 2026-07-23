@@ -1,4 +1,4 @@
-# 1.1 Doctype Declaration
+# Doctype Declaration
 
 <!Doctype> Declaration declares the document type.
 

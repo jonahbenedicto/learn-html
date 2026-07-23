@@ -1,8 +1,8 @@
-# HTML Headings
+# Headings
 
 `<h1>` to `<h6>`
 
-[Example](./html-headings.html)
+[Example](./headings.html)
 ```html
 <!DOCTYPE html>
 <html>
