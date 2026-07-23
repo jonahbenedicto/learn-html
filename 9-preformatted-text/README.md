@@ -1,0 +1,23 @@
+# Preformatted Text
+
+`<pre>`
+
+[Example](./preformatted-text.html)
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<pre>
+  My Bonnie lies over the ocean.
+
+  My Bonnie lies over the sea.
+
+  My Bonnie lies over the ocean.
+
+  Oh, bring back my Bonnie to me.
+</pre>
+
+</body>
+</html>
+```
