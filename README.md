@@ -10,3 +10,4 @@ Contents:
     - [1.1 Doctype Declaration](./1-html-document/1.1-doctype-declaration)
     - [1.2 HTML Headings](./1-html-document/1.2-html-headings)
     - [1.3 HTML Paragraphs](./1-html-document/1.3-html-paragraphs)
+    - [1.4 HTML Links](./1-html-document/1.4-html-links)
